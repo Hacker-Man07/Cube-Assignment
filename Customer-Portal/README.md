@@ -30,8 +30,19 @@ A React-based single-page application that displays a customer details portal wi
 
 ### Installation
 
-1. Clone the repository
+1. Clone the repository:
 ```bash
 [git clone https://github.com/your-username/customer-portal.git](https://github.com/Hacker-Man07/Cube-Assignment.git)
 ```
-2. 
+2. Install the dependencies:
+```bash
+npm install
+```
+```bash
+npm install react-window react-window-infinite-loader react-lazy-load-image-component axios
+```
+3. Start the development server:
+```bash
+npm start
+```
+4. Open your browser and visit `http://localhost:3000` to view the app.
