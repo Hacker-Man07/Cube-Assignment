@@ -32,7 +32,7 @@ A React-based single-page application that displays a customer details portal wi
 
 1. Clone the repository:
 ```bash
-[git clone https://github.com/your-username/customer-portal.git](https://github.com/Hacker-Man07/Cube-Assignment.git)
+git clone https://github.com/Hacker-Man07/Cube-Assignment.git
 ```
 2. Install the dependencies:
 ```bash
